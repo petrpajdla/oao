@@ -37,3 +37,8 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+/data/derived/
+/data/raw/ais_oao.xlsx
+/data/raw/arub_oao.xlsx
+/data/raw/mk.xls
