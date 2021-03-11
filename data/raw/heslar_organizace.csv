@@ -1,0 +1,194 @@
+"id";"nazev";"nazev_zkraceny";"zkratka";"typ_organizace";"oao";"months_to_publication";"published_accessibility"
+3;"SmartGIS s.r.o.";"SmartGIS";"SG";10;"f";36;4
+315732;"Archaia Příchovice [zaniklé]";"Archaia Příchovice [zaniklé]";"Archaia Příchovice [z]";11;"f";36;4
+315733;"Archaia";"Archaia";"Archaia";11;"t";36;2
+315734;"Archeologický ústav ČSAV, pobočka Most [zaniklé]";"Archeologický ústav Most [zaniklé]";"ARÚ Most [z]";13;"f";36;2
+315735;"Archeologický ústav ČSAV, pobočka Plzeň [zaniklé]";"Archeologický ústav Plzeň [zaniklé]";"ARÚ Plzeň [z]";13;"f";36;2
+315736;"Muzeum Bílina, detašované pracoviště Regionálního muzea v Teplicích [zaniklé]";"Muzeum Bílina [zaniklé]";"M Bílina [z]";3;"f";36;4
+315744;"Archaia Brno, z.ú.";"Archaia Brno";"Archaia Brno";11;"t";36;4
+315745;"Archaia Jih, o.p.s.";"Archaia Jih";"Archaia Jih";11;"t";36;2
+315746;"Archaia Praha z.ú.";"Archaia Praha";"Archaia Praha";11;"t";36;2
+315748;"Archeo Pro, o.p.s.";"Archeo Pro";"Archeo Pro";11;"t";36;4
+315749;"ARCHEO Sever, o.p.s.";"ARCHEO Sever";"ARCHEO Sever";11;"t";36;2
+315750;"ArcheoBohemia, o.p.s. [zaniklé]";"ArcheoBohemia [zaniklé]";"ArcheoBohemia [z]";11;"f";36;2
+315751;"Archeocentrum – Institut pro archeologii a památkovou péči středních Čech, o. p. s.";"Archeocentrum";"Archeocentrum";11;"t";36;4
+315752;"[archeolog mimo organizaci]";"[samostatný archeolog]";"[samostatný archeolog]";10;"f";36;4
+315753;"Archeologická společnost, o.p.s.";"Archeologická společnost";"Archeologická společnost";11;"t";36;4
+315754;"Archeologický ústav AV ČR, Brno, v.v.i.";"Archeologický ústav Brno";"ARÚ Brno";13;"t";36;2
+315755;"Archeologický ústav AV ČR, Praha, v.v.i.";"Archeologický ústav Praha";"ARÚ Praha";13;"t";36;2
+315756;"Archeos";"Archeos";"Archeos";11;"t";36;4
+315757;"Česká společnost archeologická, o. p. s.";"Česká společnost archeologická";"ČSA";11;"t";36;2
+315758;"České muzeum stříbra, p.o.";"Muzeum Kutná Hora";"M Kutná Hora";3;"t";36;4
+315759;"Jihočeská univerzita v Českých Budějovicích - Filozofická fakulta";"JČU České Budějovice - Filozofická fakulta";"JČU České Budějovice - FF";4;"t";36;2
+315760;"Masarykova univerzita - Filozofická fakulta";"MU Brno - Filozofická fakulta";"MU Brno - FF";4;"t";36;4
+315761;"Univerzita Karlova - Filozofická fakulta";"UK Praha - Filozofická fakulta";"UK Praha - FF";4;"t";36;2
+315763;"Geologický ústav AV ČR, v.v.i.";"Geologický ústav AVČR";"GÚ AVČR";13;"f";36;4
+315764;"Hornické muzeum Příbram, p.o.";"Muzeum Příbram";"M Příbram";3;"t";36;4
+315765;"Husitské muzeum v Táboře";"Muzeum Tábor";"M Tábor";3;"t";36;2
+315766;"Jihočeské muzeum v Českých Budějovicích";"Muzeum České Budějovice";"M České Budějovice";3;"t";36;2
+315767;"Univerzita Hradec Králové - Filozofická fakulta";"UHK - Filozofická fakulta";"UHK - FF";4;"t";36;2
+315768;"Západočeská univerzita v Plzni - Filozofická fakulta";"ZČU Plzeň - Filozofická fakulta";"ZČU Plzeň - FF";4;"t";36;2
+315769;"Správa Krkonošského národního parku - Krkonošské muzeum ve Vrchlabí";"Muzeum Vrchlabí";"M Vrchlabí";3;"t";36;4
+315770;"Labrys, o.p.s.";"Labrys";"Labrys";11;"f";36;4
+315771;"Městské muzeum a knihovna Čáslav";"Muzeum Čáslav";"M Čáslav";3;"f";36;4
+315772;"Městské muzeum Mariánské Lázně";"Muzeum Mariánské Lázně";"M Mariánské Lázně";3;"f";36;4
+315773;"Městské muzeum v Čelákovicích, p.o.";"Muzeum Čelákovice";"M Čelákovice";3;"t";36;2
+315774;"Městské muzeum v Kralupech nad Vltavou";"Muzeum Kralupy n. Vlt.";"M Kralupy n. Vlt.";3;"f";36;4
+315775;"Městské muzeum ve Stříbře, p.o.";"Muzeum Stříbro";"M Stříbro";3;"f";36;4
+315776;"Milevské muzeum";"Muzeum Milevsko";"M Milevsko";3;"t";36;2
+315777;"Muzeum Českého lesa v Tachově, p.o.";"Muzeum Tachov";"M Tachov";3;"t";36;2
+315778;"Muzeum a galerie Orlických hor v Rychnově nad Kněžnou";"Muzeum Rychnov n. Kn.";"M Rychnov n. Kn.";3;"t";36;2
+315779;"Muzeum a galerie severního Plzeňska v Mariánské Týnici, p.o.";"Muzeum Mariánská Týnice";"M Mariánská Týnice";3;"t";36;2
+315780;"Muzeum Českého ráje v Turnově, p.o.";"Muzeum Turnov";"M Turnov";3;"t";36;2
+315781;"Muzeum Českéhu krasu, p.o.";"Muzeum Beroun";"M Beroun";3;"t";36;4
+315782;"Muzeum Českéhu krasu, p.o. - pobočka Hořovice";"Muzeum Hořovice";"M Hořovice";3;"t";36;4
+315783;"Muzeum hlavního města Prahy";"Muzeum hl. m. Prahy";"M hl. m. Prahy";3;"t";36;4
+315784;"Muzeum Cheb, p.o. Karlovarského kraje";"Muzeum Cheb";"M Cheb";3;"t";36;2
+315785;"Muzeum Chodska v Domažlicích, p.o.";"Muzeum Domažlice";"M Domažlice";3;"t";36;2
+315786;"Muzeum Jindřichohradecka";"Muzeum Jindřichův Hradec";"M Jindřichův Hradec";3;"t";36;2
+315787;"Muzeum jižního Plzeňska v Blovicích, p.o.";"Muzeum Blovice";"M Blovice";3;"t";36;2
+315788;"Muzeum Karlovy Vary, p.o. Karlovarského kraje";"Muzeum Karlovy Vary";"M Karlovy Vary";3;"t";36;2
+315789;"Muzeum města Ústí nad Labem, p.o.";"Muzeum Ústí n. L.";"M Ústí n. L.";3;"t";36;2
+315790;"Muzeum Mladoboleslavska, p.o.";"Muzeum Mladá Boleslav";"M Mladá Boleslav";3;"t";36;2
+315791;"Muzeum Podblanicka, p.o.";"Muzeum Vlašim/Benešov";"M Vlašim/Benešov";3;"t";36;2
+315792;"Muzeum Podkrkonoší v Trutnově";"Muzeum Trutnov";"M Trutnov";3;"t";36;2
+315793;"Muzeum středního Pootaví Strakonice";"Muzeum Strakonice";"M Strakonice";3;"t";36;2
+315794;"Muzeum T.G.M. Rakovník, p.o.";"Muzeum Rakovník";"M Rakovník";3;"t";36;2
+315795;"Muzeum východních Čech v Hradci Králové";"Muzeum Hradec Králové";"M Hradec Králové";3;"t";36;2
+315796;"Muzeum Vysočiny Havlíčkův Brod, p.o.";"Muzeum Havlíčkův Brod";"M Havlíčkův Brod";3;"t";36;2
+315797;"Muzeum Vysočiny Jihlava, p.o.";"Muzeum Jihlava";"M Jihlava";3;"t";36;2
+315798;"Muzeum Vysočiny Pelhřimov, p.o.";"Muzeum Pelhřimov";"M Pelhřimov";3;"f";36;4
+315799;"Národní muzeum";"Národní muzeum";"NM Praha";3;"t";36;2
+315800;"Národní památkový ústav - generální ředitelství";"NPÚ generální ředitelství";"NPÚ generální ředitelství";12;"t";36;2
+315801;"Národní památkový ústav - územní odborné pracoviště středních Čech";"NPÚ u.o.p. střední Čechy";"NPÚ střední Čechy";12;"t";36;2
+315802;"Národní památkový ústav - územní odborné pracoviště v Českých Budějovicích";"NPÚ ú.o.p. České Budějovice";"NPÚ České Budějovice";12;"t";36;2
+315803;"Národní památkový ústav - územní odborné pracoviště v hl. městě Praze";"NPÚ ú.o.p. Praha";"NPÚ Praha";12;"t";36;2
+315804;"Národní památkový ústav - územní odborné pracoviště v Liberci";"NPÚ ú.o.p. Liberec";"NPÚ Liberec";12;"t";36;2
+315805;"Národní památkový ústav - územní odborné pracoviště v Pardubicích";"NPÚ ú.o.p. Pardubice";"NPÚ Pardubice";12;"t";36;2
+315806;"Národní památkový ústav - územní odborné pracoviště v Plzni";"NPÚ ú.o.p. Plzeň";"NPÚ Plzeň";12;"t";36;2
+315807;"Národní památkový ústav - územní odborné pracoviště v Telči";"NPÚ ú.o.p. Telč";"NPÚ Telč";12;"t";36;2
+315808;"Národní památkový ústav - územní odborné pracoviště v Ústí nad Labem";"NPÚ ú.o.p. Ústí nad Labem";"NPÚ Ústí nad Labem";12;"t";36;2
+315809;"Národní technické muzeum";"Národní technické muzeum";"NTM Praha";3;"t";36;4
+315810;"[amaterský archeolog/zájemce]";"[amatérský spolupracovník]";"[amatérský spolupracovník]";10;"f";36;4
+315811;"[neurčená/nejasná organizace]";"[neuvedeno]";"[neuvedeno]";10;"f";36;4
+315812;"Národní památkový ústav - územní odborné pracoviště v Josefově";"NPÚ ú.o.p. Josefov";"NPÚ Josefov";12;"t";36;2
+315813;"Národní památkový ústav - územní odborné pracoviště v Lokti";"NPÚ ú.o.p. Loket";"NPÚ Loket";12;"t";36;2
+315814;"Oblastní muzeum Praha - východ, p.o.";"Muzeum Brandýs n. L.";"M Brandýs n. L.";3;"t";36;2
+315815;"Oblastní muzeum v Chomutově, p.o.";"Muzeum Chomutov";"M Chomutov";3;"t";36;2
+315816;"Oblastní muzeum v Litoměřicích, p.o.";"Muzeum Litoměřice";"M Litoměřice";3;"t";36;4
+315817;"Oblastní muzeum v Lounech, p.o.";"Muzeum Louny";"M Louny";3;"t";36;2
+315818;"[jiná organizace]";"[jiná organizace]";"[jiná organizace]";10;"f";36;4
+315819;"Podřipské muzeum";"Muzeum Roudnice n. L.";"M Roudnice n. L.";3;"t";36;2
+315820;"Polabské muzeum, p.o.";"Muzeum Poděbrady";"M Poděbrady";3;"t";36;2
+315821;"Prachatické muzeum";"Muzeum Prachatice";"M Prachatice";3;"t";36;2
+315822;"Prácheňské muzeum v Písku";"Muzeum Písek";"M Písek";3;"t";36;2
+315823;"Univerzita Karlova - Přírodověcká fakulta";"UK Praha - Přírodověcká fakulta";"UK Praha - PřF";4;"f";36;4
+315824;"Pueblo - archeologická společnost, o.p.s.";"Pueblo";"Pueblo";11;"t";36;2
+315825;"Regionální muzeum a galerie v Jičíně";"Muzeum Jičín";"M Jičín";3;"t";36;2
+315826;"Regionální muzeum K. A. Polánka v Žatci";"Muzeum Žatec";"M Žatec";3;"t";36;2
+315827;"Regionální muzeum Mělník, p.o.";"Muzeum Mělník";"M Mělník";3;"t";36;2
+315828;"Regionální muzeum v Českém Krumlově";"Muzeum Český Krumlov";"M Český Krumlov";3;"t";36;2
+315829;"Regionální muzeum v Kolíně, p.o.";"Muzeum Kolín";"M Kolín";3;"t";36;2
+315830;"Regionální muzeum v Litomyšli";"Muzeum Litomyšl";"M Litomyšl";3;"t";36;4
+315831;"Muzeum Náchodska";"Muzeum Náchod";"M Náchod";3;"t";36;2
+315832;"Regionální muzeum v Teplicích, p.o.";"Muzeum Teplice";"M Teplice";3;"t";36;2
+315833;"Regionální muzeum v Chrudimi";"Muzeum Chrudim";"M Chrudim";3;"t";36;2
+315834;"Regionální muzeum ve Vysokém Mýtě";"Muzeum Vysoké Mýto";"M Vysoké Mýto";3;"t";36;4
+315835;"Severočeské muzeum v Liberci, p.o.";"Muzeum Liberec";"M Liberec";3;"t";36;2
+315836;"Středočeské muzeum v Roztokách u Prahy, p.o.";"Muzeum Roztoky";"M Roztoky";3;"t";36;2
+315837;"Syrakus";"Syrakus";"Syrakus";11;"t";36;2
+315838;"Ústav archeologické památkové péče severozápadních Čech, v.v.i.";"ÚAPPSZČ Most";"ÚAPPSZČ Most";12;"t";36;2
+315839;"Ústav archeologické památkové péče středních Čech, p.o.";"ÚAPPSČ Praha";"ÚAPPSČ Praha";12;"t";36;2
+315840;"Vlastivědné muzeum a galerie v České Lípě, p.o.";"Muzeum Česká Lípa";"M Česká Lípa";3;"t";36;2
+315841;"Vlastivědné muzeum Dr. Hostaše v Klatovech, p.o.";"Muzeum Klatovy";"M Klatovy";3;"t";36;4
+315842;"Východočeské muzeum v Pardubicích";"Muzeum Pardubice";"M Pardubice";3;"t";36;2
+315843;"[zahraniční badatel/expedice]";"[zahraniční badatel]";"[zahraniční badatel]";10;"f";36;4
+315844;"Západočeské muzeum v Plzni, p.o.";"Muzeum Plzeň";"M Plzeň";3;"t";36;2
+315845;"ZIP o.p.s.";"ZIP Plzeň";"ZIP Plzeň";11;"t";36;4
+598033;"INCAD, spol. s r.o.";"INCAD";"INCAD";10;"f";36;4
+598420;"Archaia Olomouc, z.ú.";"Archaia Olomouc";"Archaia Olomouc";11;"t";36;2
+598421;"Archeologické centrum Olomouc, p.o.";"Archeologické centrum Olomouc";"AC Olomouc";11;"t";36;4
+598422;"Archeologický ústav AV ČR, Brno, v.v.i. - detašované pracoviště Dolní Dunajovice";"Archeologický ústav Brno - Dolní Dunajovice";"ARÚB - Dolní Dunajovice";13;"t";36;2
+598423;"Archeologický ústav AV ČR, Brno, v.v.i. - detašované pracoviště Dolní Věstonice";"Archeologický ústav Brno - Dolní Věstonice";"ARÚB - Dolní Věstonice";13;"t";36;2
+598424;"Archeologický ústav AV ČR, Brno, v.v.i. - detašované pracoviště Mikulčice";"Archeologický ústav Brno - Mikulčice";"ARÚB - Mikulčice";13;"t";36;2
+598425;"Archeologický ústav AV ČR, Brno, v.v.i. - detašované pracoviště Opava";"Archeologický ústav Brno - Opava";"ARÚB - Opava";13;"t";36;2
+598426;"Univerzita Palackého v Olomouci - Filozofická fakulta";"UP Olomouc - Filozofická fakulta";"UP Olomouc - FF";4;"t";36;4
+598427;"Slezská univerzita v Opavě - Filozoficko-přírodovědecká fakulta";"SU Opava - Filozoficko-přírodovědecká fakulta";"SU Opava - F-PřF";4;"t";36;2
+598428;"Městské kulturní zařízení Uničov";"Muzeum Uničov";"M Uničov";3;"f";36;4
+598429;"Moravské zemské muzeum";"Moravské zemské muzeum";"MZM Brno";3;"t";36;2
+598430;"Muzeum Beskyd Frýdek-Místek, p.o.";"Muzeum Beskyd";"M Beskyd";3;"t";36;4
+598431;"Muzeum Blanenska, p.o.";"Muzeum Blansko";"M Blansko";3;"t";36;2
+598432;"Muzeum Bojkovska, p.o.";"Muzeum Bojkovice";"M Bojkovice";3;"f";36;4
+598433;"Muzeum regionu Boskovicka, p.o.";"Muzeum Boskovice";"M Boskovice";3;"t";36;2
+598434;"Muzeum Brněnska, p.o.";"Muzeum Brněnska";"M Brněnska";3;"t";36;4
+598435;"Městské muzeum a galerie Břeclav, p.o.";"Muzeum Břeclav";"M Břeclav";3;"t";36;2
+598436;"Muzeum Těšínska, p.o.";"Muzeum Český Těšín";"M Český Těšín";3;"t";36;4
+598437;"Masarykovo muzeum v Hodoníně, p.o.";"Muzeum Hodonín";"M Hodonín";3;"t";36;2
+598438;"Městské kulturní středisko Holešov. p.o. - Městské muzeum a Galerie";"Muzeum Holešov";"M Holešov";3;"f";36;4
+598439;"Městská kulturní zařízení Hranice, p.o. - Městské muzeum a galerie";"Muzeum Hranice";"M Hranice";3;"t";36;4
+598440;"Vlastivědné muzeum Jesenicka, p.o.";"Muzeum Jeseník";"M Jeseník";3;"t";36;4
+598441;"Městské muzeum Jevíčko";"Muzeum Jevíčko";"M Jevíčko";3;"f";36;4
+598442;"Městské informační a kulturní středisko Krnov - Městské muzeum";"Muzeum Krnov";"M Krnov";3;"f";36;4
+598443;"Muzeum Kroměřížska, p.o.";"Muzeum Kroměříž";"M Kroměříž";3;"t";36;2
+598444;"Muzeum Kvasice";"Muzeum Kvasice";"M Kvasice";3;"f";36;4
+598445;"Masarykovo muzeum v Hodoníně, p.o. - Vlastivědné muzeum Kyjov";"Muzeum Kyjov";"M Kyjov";3;"f";36;4
+598446;"Muzeum města Brna, p.o.";"Muzeum města Brna";"M Brno";3;"t";36;4
+598447;"Regionální muzeum v Mikulově, p.o.";"Muzeum Mikulov";"M Mikulov";3;"t";36;2
+598448;"Městské kulturní středisko Moravský Krumlov, p.o. - Městské muzeum";"Muzeum Moravský Krumlov";"M Moravský Krumlov";3;"f";36;4
+598449;"Košíkářské muzeum - Morkovice";"Muzeum Morkovice";"M Morkovice";3;"f";36;4
+598450;"Klub kultury Napajedla, p.o.";"Muzeum Napajedla";"M Napajedla";3;"f";36;4
+598451;"Muzeum Novojičínska, p.o.";"Muzeum Nový Jičín";"M Nový Jičín";3;"t";36;2
+598452;"Vlastivědné muzeum v Olomouci";"Muzeum Olomouc";"M Olomouc";3;"t";36;2
+598453;"Slezské zemské muzeum";"Muzeum Opava";"M Opava";3;"t";36;2
+598454;"Ostravské muzeum, p.o.";"Muzeum Ostrava";"M Ostrava";3;"t";36;4
+598455;"Muzeum a galerie v Prostějově, p.o.";"Muzeum Prostějov";"M Prostějov";3;"t";36;2
+598456;"Muzeum Komenského v Přerově, p.o.";"Muzeum Přerov";"M Přerov";3;"t";36;2
+598457;"Zámek Slavkov - Austerlitz, p.o.";"Muzeum Slavkov";"M Slavkov";3;"f";36;4
+598458;"Vlastivědné muzeum v Šumperku, p.o.";"Muzeum Šumperk";"M Šumperk";3;"t";36;2
+598459;"Muzeum Vysočiny Třebíč, p.o.";"Muzeum Třebíč";"M Třebíč";3;"t";36;4
+598460;"Muzeum Jana Amose Komenského v Uherském Brodě";"Muzeum Uherský Brod";"M Uherský Brod";3;"f";36;4
+598461;"Městské muzeum Valašské Klobouky";"Muzeum Valašské Klobouky";"M Valašské Klobouky";3;"f";36;4
+598462;"Museum regionu Valašsko, p.o.";"Muzeum Vsetín";"M Vsetín";3;"t";36;2
+598463;"Muzeum Vyškovska, p.o.";"Muzeum Vyškov";"M Vyškov";3;"t";36;4
+598464;"Muzeum jihovýchodní Moravy ve Zlíně, p.o.";"Muzeum Zlín";"M Zlín";3;"t";36;2
+598465;"Jihomoravské muzeum ve Znojmě, p.o.";"Muzeum Znojmo";"M Znojmo";3;"t";36;4
+598466;"Vrbasovo muzeum";"Muzeum Ždánice";"M Ždánice";3;"f";36;4
+598467;"Okresní vlastivědné muzeum v Židlochovicích [zaniklé]";"Muzeum Židlochovice [zaniklé]";"M Židlochovice [z]";3;"f";36;4
+598468;"Naše historie, z.s.";"Naše historie";"Naše historie";11;"t";36;2
+598469;"Národní památkový ústav - územní odborné pracoviště v Brně";"NPÚ ú.o.p. Brno";"NPÚ Brno";12;"t";36;2
+598470;"Národní památkový ústav - územní odborné pracoviště v Kroměříži";"NPÚ ú.o.p. Kroměříž";"NPÚ Kroměříž";12;"t";36;2
+598471;"Národní památkový ústav - územní odborné pracoviště v Olomouci";"NPÚ ú.o.p. Olomouc";"NPÚ Olomouc";12;"t";36;2
+598472;"Národní památkový ústav - územní odborné pracoviště v Ostravě";"NPÚ ú.o.p. Ostrava";"NPÚ Ostrava";12;"t";36;2
+598473;"Masarykova univerzita - Pedagogická fakulta";"MU Brno - Pedagogická fakulta";"MU Brno - PdF";4;"t";36;4
+598474;"Masarykova univerzita - Přírodovědecká fakulta";"MU Brno - Přírodovědecká fakulta";"MU Brno - PřF";4;"t";36;4
+598475;"Slovácké muzeum v Uherském Hradišti, p.o.";"Muzeum Uherské Hradiště";"M Uherské Hradiště";3;"t";36;2
+598476;"Ústav archeologické památkové péče Brno, v.v.i.";"ÚAPP Brno";"ÚAPP Brno";12;"t";36;4
+598482;"Městské kulturní středisko Kojetín - pracoviště Městské muzeum";"Muzeum Kojetín";"M Kojetín";3;"f";36;4
+599134;"Melicharovo vlastivědné muzeum v Unhošti";"Muzeum Unhošť";"M Unhošť";3;"f";36;4
+599135;"Polabské muzeum, p.o. - Vlastivědné muzeum Nymburk";"Muzeum Nymburk";"M Nymburk";3;"t";36;2
+599136;"Městské muzeum Antonína Sovy v Pacově";"Muzeum Pacov";"M Pacov";3;"f";36;4
+599137;"Městské muzeum Sedlčany - p.o.";"Muzeum Sedlčany";"M Sedlčany";3;"f";36;4
+599138;"Západočeské muzeum v Plzni, p.o. - Muzeum Dr. Bohuslava Horáka v Rokycanech";"Muzeum Rokycany";"M Rokycany";3;"t";36;2
+746717;"[sekundární zdroj]";"[sekundární zdroj]";"[sekundární zdroj]";10;"f";0;4
+747992;"Městské muzeum Rýmařov, p.o.";"Muzeum Rýmařov";"M Rýmařov";3;"f";36;4
+769066;"Space Systems Czech, s.r.o.";"Space Systems Czech";"SSC";10;"f";36;4
+777152;"Orlické muzeum v Chocni";"Muzeum Choceň";"M Choceň";3;"t";36;4
+777154;"Městrské muzeum v Bystřici nad Perštejnem";"Muzeum Bystřice n. P.";"M Bystřice n. P.";3;"t";36;4
+777162;"Technické muzeum v Brně";"Technické muzeum v Brně";"TM Brno";3;"t";36;4
+777166;"Vojenský historický ústav Praha";"Vojenský historický ústav";"VHÚ Praha";13;"t";36;2
+778007;"Sládečkovo vlastivědné muzeum v Kladně, p.o.";"Muzeum Kladno";"M Kladno";3;"f";36;4
+778008;"Oblastní muzeum v Děčíně, p.o.";"Muzeum Děčín";"M Děčín";3;"f";36;4
+942842;"Archeologický ústav SAV";"Archeologický ústav Nitra";"ARÚ Nitra";13;"f";36;4
+942843;"Městské muzeum Podbořany";"Muzeum Podbořany";"M Podbořany";3;"f";36;4
+942844;"Vlastivědné muzeum ve Slaném";"Muzeum Slaný";"M Slaný";3;"f";36;4
+942845;"Městské muzeum Velvary";"Muzeum Velvary";"M Velvary";3;"f";36;4
+943014;"Regionální muzeum v Kolíně, p.o. - Podlipanské muzeum v Českém Brodě";"Muzeum Český Brod";"M Český Brod";3;"f";36;2
+943015;"Muzeum města Duchcova";"Muzeum Duchcov";"M Duchov";3;"f";36;4
+943016;"Muzeum Horšovský Týn [zaniklé]";"Muzeum Horšovský Týn [zaniklé]";"M Horšovský Týn [z]";3;"f";36;4
+943017;"Muzeum skla a bižuterie v Jablonci nad Nisou";"Muzeum Jablonec n. N.";"M Jablonec n. N.";3;"f";36;4
+943018;"Regionální muzeum v Jílovém u Prahy";"Muzeum Jílové u Prahy";"M Jílové u Prahy";3;"f";36;4
+943019;"Městské muzeum Moravská Třebová";"Muzeum Moravská Třebová";"M Moravská Třebová";3;"f";36;4
+943020;"Muzeum Týniště nad Orlicí [zaniklé]";"Muzeum Týniště n. O. [zaniklé]";"M Týniště n. O. [z]";3;"f";36;4
+945637;"Oblastní muzeum a galerie v Mostě, příspěvková organizace";"Muzeum Most";"M Most";3;"f";36;4
+990316;"ARCHA 13 o.p.s.";"ARCHA 13";"ARCHA 13";10;"f";36;4
+
